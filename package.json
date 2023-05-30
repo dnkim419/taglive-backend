@@ -1,0 +1,19 @@
+{
+  "name": "taglive",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnkim419/taglive-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnkim419/taglive-backend/issues"
+  },
+  "homepage": "https://github.com/dnkim419/taglive-backend#readme"
+}
