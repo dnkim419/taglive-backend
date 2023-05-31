@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "nodemon --exec babel-node server.js",
-    "migrate": "npx prisma migrate dev"
+    "dev": "nodemon --exec babel-node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,10 +17,6 @@
   },
   "homepage": "https://github.com/dnkim419/taglive-backend#readme",
   "dependencies": {
-    "@graphql-tools/load-files": "^7.0.0",
-    "@graphql-tools/merge": "^9.0.0",
-    "@graphql-tools/schema": "^10.0.0",
-    "@prisma/client": "^4.14.1",
     "apollo-server": "^3.12.0",
     "graphql": "^16.6.0"
   },
