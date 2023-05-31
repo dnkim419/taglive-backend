@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/dnkim419/taglive-backend#readme",
   "dependencies": {
+    "@graphql-tools/load-files": "^7.0.0",
+    "@graphql-tools/merge": "^9.0.0",
+    "@graphql-tools/schema": "^10.0.0",
     "apollo-server": "^3.12.0",
     "graphql": "^16.6.0"
   },
